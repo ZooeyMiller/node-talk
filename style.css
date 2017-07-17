@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0
+}
+
+.container {
+  font-family: ubuntu, Helvetica, sans-serif;
+  color: white;
+  height: 100vh;
+  width: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 4em;
+  text-align: center;
+}
+
+.pale-violet-red {
+  background-color: palevioletred;
+}
+
+.teal {
+  background-color: #6db9ac;
+  font-style: italic;
+}
